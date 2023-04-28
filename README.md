@@ -7,7 +7,7 @@ Developer. Learner.
 * 🌍  I'm based in Bandung, Indonesia
 * 🖥️  See my portfolio at [titanrukmana.my.id](http://titanrukmana.my.id)
 * ✉️  You can contact me at [titan170300@gmail.com](mailto:titan170300@gmail.com)
-* 🚀  I'm currently working on [a virtual photobooth experience](http://photobooth.ospesya.com/alt80plus)
+* 🚀  I'm currently working at Avexsoft PTE LTD
 * 🧠  I'm learning Spring framework
 * 🤝  I'm open to collaborating on web building projects
 
